@@ -10,7 +10,7 @@ export const actionMessages: Record<string, string> = {
     ' [primer nombre -> {firstName}]' +
     ' [segundo nombre -> {secondName}]' +
     ' [primer apellido -> {lastName}]' +
-    ' [segundo apellido -> {secondLastName}]' +
+    ' [segundo apellido -> {mothersLastName}]' +
     ' [fecha de nacimiento -> {birthDate}]' +
     ' [email -> {email}]' +
     ' [celular -> {cellphone}]' +
